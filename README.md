@@ -17,4 +17,5 @@ mathematics = input()
 physics = input()
 print()
 average = (" english_mark - mathematics *physics")
-#distinction is declared if the average is greater than or equals to the average. 
+#distinction is declared if the average is greater than or equals to the average.
+``` 
